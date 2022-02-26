@@ -1,0 +1,5 @@
+services:
+    kaileysnay.parsenotes.listener:
+        class: kaileysnay\parsenotes\event\main_listener
+        tags:
+            - { name: event.listener }
