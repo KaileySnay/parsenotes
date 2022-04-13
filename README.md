@@ -20,7 +20,7 @@ Parses BBCode in user notes.
 
 We use automated unit tests to prevent regressions. Check out our build below:
 
-master: [![Build Status](https://github.com/KaileySnay/parsenotes/workflows/Tests/badge.svg)](https://github.com/KaileySnay/parsenotes/actions)
+master: [![Build Status](https://github.com/kaileysnay/parsenotes/workflows/Tests/badge.svg)](https://github.com/kaileysnay/parsenotes/actions)
 
 ## License
 
